@@ -23,6 +23,7 @@ steps:
     version: '5.0.202'
     includePreviewVersions: true
 
+- 
 - task: DotNetCoreCLI@2
   inputs:
     command: 'build'
